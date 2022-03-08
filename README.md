@@ -2,7 +2,7 @@
 
 <==> **Frontend developer** <br/>
 <==> **Languages:** <br/>
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg"/> <br/>
 <==> **Birthday:** 21/12
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ka-chng&show_icons=true&theme=dracula)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ka-chng&show_icons=true&theme=dracula) <br/>
+[![Now listening](https://spotify-github-profile.vercel.app/api/view?uid=2j0jizxaog8nwl0nwh2d5tcrx&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
