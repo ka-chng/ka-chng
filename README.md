@@ -7,16 +7,15 @@
 [🍰] **Birthday:** ***21/12*** <br/>
 [🐦] **Twitter**: 
 <br/>
+<br/>
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=kaatchh&layout=wide&show_retweet=off)](https://github.com/gazf/github-readme-twitter)
 <br/>
 
 ## Github stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ka-chng&show_icons=true&theme=dracula) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ka-chng&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ka-chng&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2j0jizxaog8nwl0nwh2d5tcrx&cover_image=false&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 
 
-### Currently listening
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2j0jizxaog8nwl0nwh2d5tcrx&cover_image=false&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 
