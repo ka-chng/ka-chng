@@ -7,7 +7,7 @@
 [🍰] **Birthday:** ***21/12*** <br/>
 [🐦] **Twitter**: 
 <br/>
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?layout=wide?id=kaatchh)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=kaatchh&layout=wide)](https://github.com/gazf/github-readme-twitter)
 <br/>
 
 ## Github stats
