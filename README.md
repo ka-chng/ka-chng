@@ -13,7 +13,7 @@
 
 ## Github stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ka-chng&show_icons=true&theme=dracula) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ka-chng&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2j0jizxaog8nwl0nwh2d5tcrx&cover_image=false&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ka-chng&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2j0jizxaog8nwl0nwh2d5tcrx&cover_image=false&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/2j0jizxaog8nwl0nwh2d5tcrx?si=42196ac7b2e64f37)
 
 
 
