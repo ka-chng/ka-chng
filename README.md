@@ -11,7 +11,7 @@ const katch = {
                   Transcriber: "https://genius.com/29I"
                },
                
-  Tv Shows: {
+  TvShows: {
   "Mr_Robot", "Daredevil" 
 }
   Manga: {
