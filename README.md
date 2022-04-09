@@ -11,13 +11,12 @@ const katch = {
                   Transcriber: "https://genius.com/29I"
                },
                
-  TvShows: {
-  "Mr_Robot", "Daredevil" 
-}
-  Manga: {
-  "Ajin", "Berserk", "Vagabond", "JJBA", "Sensor"
+  Interests: {
+               TV_SHOWS: "Mr_Robot", "Daredevil",
+               MANGA: "Ajin", "Berserk", "Vagabond", "JJBA", "Sensor",
+               GENRES: "Small Room", "HipHop", "Lofi", "Emo Rap", "Deep HipHop", "Acoustic"
 }
 
- Goal: "Trying to expand upon my programming knowledge and try to do new things"
+ Goal: "Trying to expand upon my programming knowledge, trying to get good at python and i want to learn java mostly and then branch out to more things"
 }
 ```
