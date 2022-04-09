@@ -17,9 +17,7 @@ const katch = {
   Manga: {
   "Ajin", "Berserk", "Vagabond", "JJBA", "Sensor"
 }
-  Comics: {
-  "The batman who laughs"
-}
+
  Goal: "Trying to expand upon my programming knowledge and try to do new things :")"
 }
 ```
