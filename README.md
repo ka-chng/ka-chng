@@ -9,9 +9,9 @@
 ## [👨‍💻] Github stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ka-chng&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ka-chng&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
 <br/>
-## [🎵] Spotify 
+### [🎵] Spotify 
 [![Recently Listening](https://spotify-recently-played-readme.vercel.app/api?user=2j0jizxaog8nwl0nwh2d5tcrx)
 <br/>
-## [🐦] Twitter
+### [🐦] Twitter
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=kaatchh&layout=wide&show_retweet=off)](https://github.com/gazf/github-readme-twitter)
 
