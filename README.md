@@ -6,10 +6,10 @@ const katch = {
   code: [Javascript, HTML, CSS, Python],
   tools: [React, Node],
   OtherTitles: {
-                        Owner: "https://discord.gg/we",
-                        Moderatior: "https://discord.gg/chacha", "https://discord.gg/want",
-                        Transcriber: "https://genius.com/29I"
-                      },
+                  Owner: "https://discord.gg/we",
+                  Moderatior: "https://discord.gg/chacha", "https://discord.gg/want",
+                  Transcriber: "https://genius.com/29I"
+               },
  Goal: "Trying to expand upon my programming knowledge and try to do new things :")"
 }
 ```
