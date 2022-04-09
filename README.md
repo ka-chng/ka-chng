@@ -10,6 +10,16 @@ const katch = {
                   Moderatior: "https://discord.gg/chacha", "https://discord.gg/want",
                   Transcriber: "https://genius.com/29I"
                },
+               
+  Tv Shows: {
+  "Mr_Robot", "Daredevil" 
+}
+  Manga: {
+  "Ajin", "Berserk", "Vagabond", "JJBA", "Sensor"
+}
+  Comics: {
+  "The batman who laughs"
+}
  Goal: "Trying to expand upon my programming knowledge and try to do new things :")"
 }
 ```
