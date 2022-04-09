@@ -18,6 +18,6 @@ const katch = {
   "Ajin", "Berserk", "Vagabond", "JJBA", "Sensor"
 }
 
- Goal: "Trying to expand upon my programming knowledge and try to do new things :")"
+ Goal: "Trying to expand upon my programming knowledge and try to do new things"
 }
 ```
