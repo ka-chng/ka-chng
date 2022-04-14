@@ -19,4 +19,5 @@ const katch = {
 ```
 
 ### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ka-chng)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ka-chng&theme=dark&background=000000)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ka-chng&theme=dark&background=000000)](https://git.io/streak-stats)
