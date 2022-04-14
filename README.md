@@ -17,3 +17,6 @@ const katch = {
                GENRES: "Small Room", "HipHop", "Lofi", "Emo Rap", "Deep HipHop", "Acoustic"
 }
 ```
+# Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ka-chng&theme=dark&background=000000)](https://git.io/streak-stats)
