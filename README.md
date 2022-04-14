@@ -16,7 +16,4 @@ const katch = {
                MANGA: "Ajin", "Berserk", "Vagabond", "JJBA", "Sensor",
                GENRES: "Small Room", "HipHop", "Lofi", "Emo Rap", "Deep HipHop", "Acoustic"
 }
-
- Goal: "Trying to expand upon my programming knowledge, trying to get good at python and i want to learn java mostly and then branch out to more things"
-}
 ```
