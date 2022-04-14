@@ -18,6 +18,6 @@ const katch = {
 }
 ```
 
-### <img src="https://cdn.discordapp.com/emojis/836241973269626920.webp?size=96&quality=lossless" alt="stats" width="40"/> Stats !
+# <img src="https://cdn.discordapp.com/emojis/836241973269626920.webp?size=96&quality=lossless" alt="stats" width="40"/> Stats !
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ka-chng&show_icons=true&theme=gruvbox)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ka-chng&theme=dark&background=000000)](https://git.io/streak-stats)
