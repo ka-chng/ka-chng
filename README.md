@@ -2,17 +2,13 @@
 
 ```js
 const katch = {
-  pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Python],
   tools: [React, Node],
   OtherTitles: {
-                  Owner: "https://discord.gg/we",
-                  Moderatior: "https://discord.gg/chacha", "https://discord.gg/want",
                   Transcriber: "https://genius.com/29I"
                },
                
   Interests: {
-               MANGA: "Ajin", "Berserk", "Vagabond", "JJBA", "Sensor",
                MUSIC_GENRES: "Small Room", "HipHop", "Lofi", "Emo Rap", "Deep HipHop", "Acoustic"
 }
 ```
