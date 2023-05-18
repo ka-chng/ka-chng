@@ -14,4 +14,4 @@ const katch = {
 ```
 
 # Stats <img src="https://cdn.discordapp.com/emojis/864659323367587870.webp?size=96&quality=lossless" alt="stats" width="40"/> 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ka-chng&layout=donut&bg_color=#00001)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ka-chng&layout=donut&theme=dark)
