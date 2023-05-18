@@ -1,4 +1,4 @@
-# <img src="https://cdn.discordapp.com/emojis/836238456979849237.webp?size=96&quality=lossless" alt="drawing" width="40"/> katch ヤ ! 
+# <img src="https://cdn.discordapp.com/emojis/836238456979849237.webp?size=96&quality=lossless" alt="drawing" width="40"/> katch 
 
 ```js
 const katch = {
@@ -15,4 +15,3 @@ const katch = {
 
 # <img src="https://cdn.discordapp.com/emojis/864659323367587870.webp?size=96&quality=lossless" alt="stats" width="40"/> stats !
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ka-chng&show_icons=true&theme=gruvbox)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ka-chng&theme=gruvbox)](https://git.io/streak-stats)
