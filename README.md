@@ -4,12 +4,8 @@
 const katch = {
   code: [Javascript, HTML, CSS, Python],
   tools: [React, Node],
-  OtherTitles: {
-                  Transcriber: "https://genius.com/29I"
-               },
-               
   Interests: {
-               MUSIC_GENRES: "Small Room", "HipHop", "Lofi", "Emo Rap", "Deep HipHop", "Acoustic"
+               music_genres: "Small Room", "HipHop", "Lofi", "Emo Rap", "Deep HipHop", "Acoustic"
 }
 ```
 
