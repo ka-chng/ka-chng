@@ -14,5 +14,5 @@ const katch = {
 
 # SOCIALS
 <img src="https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-rgb.svg" width="40" height="30"> [Letterboxd](https://letterboxd.com/pocketwine) -
-<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="35" height="30"> [Discord](https://discord.gg/Szp9MQcedr) -
+- <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="35" height="30"> [Discord](https://discord.gg/Szp9MQcedr) -
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/MyAnimeList_Logo.png" width="35" height="30"> [MAL](https://myanimelist.net/profile/v1llian)
