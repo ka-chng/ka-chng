@@ -5,9 +5,14 @@ const katch = {
   code: [Javascript, HTML, CSS, Python],
   tools: [React, Node],
   Interests: {
-               music_genres: "Small Room", "HipHop", "Lofi", "Emo Rap", "Deep HipHop", "Acoustic"
+               movies: "Hellraiser (1978)", "Halloween (1978)", "Silence of the lambs", "Incantation"
 }
 ```
 
 # STATS
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ka-chng&layout=donut&theme=dark)
+
+# SOCIALS
+[Letterboxd](https://letterboxd.com/pocketwine)
+[Discord](https://discord.gg/Szp9MQcedr)
+[MAL](https://myanimelist.net/profile/v1llian)
