@@ -13,6 +13,6 @@ const katch = {
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ka-chng&layout=donut&theme=dark)
 
 # SOCIALS
-[Letterboxd](https://letterboxd.com/pocketwine)
-[Discord](https://discord.gg/Szp9MQcedr)
+[Letterboxd](https://letterboxd.com/pocketwine) \n
+[Discord](https://discord.gg/Szp9MQcedr) \n
 [MAL](https://myanimelist.net/profile/v1llian)
